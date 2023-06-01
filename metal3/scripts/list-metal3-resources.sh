@@ -1,0 +1,1 @@
+kubectl get metal3clusters,metal3machines,metal3datatemplates,metal3machinetemplates,bmh

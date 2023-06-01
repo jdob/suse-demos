@@ -1,0 +1,1 @@
+kubectl get rke2controlplanes,rke2controlplanetemplates

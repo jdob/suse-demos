@@ -1,0 +1,1 @@
+kubectl get cluster,machines,machinedeployments,machinesets
